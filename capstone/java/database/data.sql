@@ -46,27 +46,27 @@ VALUES ('1 Fearon Manor, Powell, Ohio 43015', 23500, 13, 8, 'https://www.gannett
 	   
 INSERT INTO property (address, price, bedrooms, bathrooms, pic_url, sq_footage, description, landlord_id, due_day) 
 VALUES ('3169 Longspur Dr, Columbus, OH 43228, OH 43119', 1995, 3, 2, 'https://maps.googleapis.com/maps/api/streetview?location=3169+Longspur+Dr%2C+Columbus%2C+OH+43228&size=768x576&key=AIzaSyARFMLB1na-BBWf7_R3-5YOQQaHqEJf6RQ&source=outdoor&&signature=Ioyo7sKQiK8otDOvP0DAQI9csqc=', 
-	   1258, 'description', 1, 19);
+	   1258, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cras ornare arcu dui vivamus arcu. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Blandit cursus risus at ultrices mi tempus imperdiet nulla. Nam libero justo laoreet sit amet. A diam sollicitudin tempor id eu nisl nunc mi ipsum. Scelerisque eleifend donec pretium vulputate sapien nec. Et malesuada fames ac turpis egestas. Dui id ornare arcu odio ut sem. Cursus vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Dignissim cras tincidunt lobortis feugiat vivamus. Amet nisl purus in mollis nunc sed id. Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan. Fermentum leo vel orci porta. Duis at tellus at urna condimentum mattis. Gravida quis blandit turpis cursus in hac habitasse. Vitae elementum curabitur vitae nunc sed. Iaculis nunc sed augue lacus viverra vitae congue eu. Iaculis at erat pellentesque adipiscing.', 1, 19);
 	   
 INSERT INTO property (address, price, bedrooms, bathrooms, pic_url, sq_footage, description, landlord_id, due_day) 
 VALUES ('120 W Blake Ave, Columbus, OH 43202', 1575, 2, 1, 'https://photos.zillowstatic.com/fp/fedc08af2d57f776ac57b6f2c1ec9356-uncropped_scaled_within_1536_1152.webp', 
-	   1375, 'description', 1, 13);
+	   1375, 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cras ornare arcu dui vivamus arcu. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Blandit cursus risus at ultrices mi tempus imperdiet nulla. Nam libero justo laoreet sit amet. A diam sollicitudin tempor id eu nisl nunc mi ipsum. Scelerisque eleifend donec pretium vulputate sapien nec. Et malesuada fames ac turpis egestas. Dui id ornare arcu odio ut sem. Cursus vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Dignissim cras tincidunt lobortis feugiat vivamus. Amet nisl purus in mollis nunc sed id. Erat pellentesque adipiscing commodo elit at imperdiet dui accumsan. Fermentum leo vel orci porta. Duis at tellus at urna condimentum mattis. Gravida quis blandit turpis cursus in hac habitasse. Vitae elementum curabitur vitae nunc sed. Iaculis nunc sed augue lacus viverra vitae congue eu. Iaculis at erat pellentesque adipiscing.', 1, 13);
 	   
 INSERT INTO property (address, price, bedrooms, bathrooms, pic_url, sq_footage, description, landlord_id, due_day) 
 VALUES ('2986 E Powell Rd, Columbus, OH 43240', 1950, 3, 2.5, 'https://photos.zillowstatic.com/fp/f2d8bd5af6d962b66a38a47bdfdc9052-cc_ft_768.webp', 
-	   1800, 'description', 1, 10);
+	   1800, 'Venenatis urna cursus eget nunc scelerisque viverra mauris in. Scelerisque eleifend donec pretium vulputate sapien. Sagittis vitae et leo duis ut diam quam. Nisi lacus sed viverra tellus in. Libero enim sed faucibus turpis in eu mi bibendum neque. Tristique sollicitudin nibh sit amet commodo. Euismod lacinia at quis risus sed vulputate odio. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat. Suspendisse faucibus interdum posuere lorem ipsum dolor. Enim lobortis scelerisque fermentum dui faucibus in ornare quam.', 1, 10);
 	   
 INSERT INTO property (address, price, bedrooms, bathrooms, pic_url, sq_footage, description, landlord_id, due_day) 
 VALUES ('6000 Sundrops Ave, Galloway, OH 43119', 1800, 3, 2, 'https://photos.zillowstatic.com/fp/b8682f6904dda8fc30f192fbd6b7c734-cc_ft_768.webp', 
-	   1404, 'description', 1, 21);
+	   1404, 'Fermentum iaculis eu non diam phasellus vestibulum. Diam ut venenatis tellus in. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Aliquet nec ullamcorper sit amet risus nullam eget felis eget. Risus viverra adipiscing at in tellus integer feugiat scelerisque. Odio ut enim blandit volutpat maecenas volutpat. Nisl nunc mi ipsum faucibus vitae aliquet nec. Ut pharetra sit amet aliquam. Penatibus et magnis dis parturient montes. Sed cras ornare arcu dui vivamus arcu felis. Cursus metus aliquam eleifend mi in. Diam donec adipiscing tristique risus nec feugiat. Sed vulputate odio ut enim.', 1, 21);
 	   
 INSERT INTO property (address, price, bedrooms, bathrooms, pic_url, sq_footage, description, landlord_id, due_day) 
 VALUES ('6993 Richfield Dr, Reynoldsburg, OH 43068', 2085, 3, 2, 'https://photos.zillowstatic.com/fp/9be09309b3da361d2d9da5d07ecce3b3-cc_ft_768.webp', 
-	   1296, 'description', 1, 9);
+	   1296, 'Vestibulum sed arcu non odio euismod. Euismod quis viverra nibh cras pulvinar mattis nunc sed blandit. Volutpat ac tincidunt vitae semper quis lectus nulla at. Vulputate eu scelerisque felis imperdiet proin fermentum leo vel. At erat pellentesque adipiscing commodo elit at imperdiet dui. Imperdiet proin fermentum leo vel orci porta non pulvinar neque. Gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim. Vitae et leo duis ut diam quam nulla. Duis at tellus at urna condimentum mattis pellentesque. Velit ut tortor pretium viverra suspendisse potenti nullam ac tortor. Dolor sit amet consectetur adipiscing. Tellus at urna condimentum mattis pellentesque. Varius sit amet mattis vulputate enim nulla aliquet.', 1, 9);
 	   
 INSERT INTO property (address, price, bedrooms, bathrooms, pic_url, sq_footage, description, landlord_id, due_day) 
 VALUES ('4311 Sidway Ave, Columbus, OH 43227', 1495, 3, 2, 'https://photos.zillowstatic.com/fp/c641c08fcf0c0ae3d0c7ba69345971a9-cc_ft_768.webp', 
-	   1218, 'description', 1, 20);
+	   1218, 'Auctor eu augue ut lectus arcu. Luctus venenatis lectus magna fringilla urna porttitor. Pretium lectus quam id leo in vitae turpis massa. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Tristique nulla aliquet enim tortor at auctor urna nunc. Morbi blandit cursus risus at ultrices mi. Nisi vitae suscipit tellus mauris a diam maecenas sed. Nisl vel pretium lectus quam id leo in. Ut aliquam purus sit amet luctus venenatis lectus magna. Elementum integer enim neque volutpat ac tincidunt vitae.', 1, 20);
 	   
 	   
 INSERT INTO property (address, price, bedrooms, bathrooms, pic_url, sq_footage, description, landlord_id, due_day) 
@@ -74,13 +74,13 @@ VALUES ('799 Warwick Dr, Westerville, OH 43082', 1097, 1, 1, 'https://photos.zil
 	   1218, 'The Ravines at Westar', 2, 15);
 INSERT INTO property (address, price, bedrooms, bathrooms, pic_url, sq_footage, description, landlord_id, due_day) 
 VALUES ('4460 Mountain Laurel Dr, Hilliard, OH 43026', 1357, 2, 1, 'https://photos.zillowstatic.com/fp/c25d82fb7c7074086662319b667ec8bc-cc_ft_1152.webp', 
-	   912, 'description', 2, 18);
+	   912, 'Venenatis urna cursus eget nunc scelerisque viverra mauris in. Scelerisque eleifend donec pretium vulputate sapien. Sagittis vitae et leo duis ut diam quam. Nisi lacus sed viverra tellus in. Libero enim sed faucibus turpis in eu mi bibendum neque. Tristique sollicitudin nibh sit amet commodo. Euismod lacinia at quis risus sed vulputate odio. Habitasse platea dictumst quisque sagittis purus sit amet volutpat consequat. Suspendisse faucibus interdum posuere lorem ipsum dolor. Enim lobortis scelerisque fermentum dui faucibus in ornare quam.', 2, 18);
 INSERT INTO property (address, price, bedrooms, bathrooms, pic_url, sq_footage, description, landlord_id, due_day) 
 VALUES ('5260 Franklin St, Hilliard, OH 43026', 1461, 2, 2, 'https://photos.zillowstatic.com/fp/9c05c5e67a840c42af73c4a45c36add5-cc_ft_1152.webp', 
-	   723, 'description', 2, 26);
+	   723, 'Fermentum iaculis eu non diam phasellus vestibulum. Diam ut venenatis tellus in. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Aliquet nec ullamcorper sit amet risus nullam eget felis eget. Risus viverra adipiscing at in tellus integer feugiat scelerisque. Odio ut enim blandit volutpat maecenas volutpat. Nisl nunc mi ipsum faucibus vitae aliquet nec. Ut pharetra sit amet aliquam. Penatibus et magnis dis parturient montes. Sed cras ornare arcu dui vivamus arcu felis. Cursus metus aliquam eleifend mi in. Diam donec adipiscing tristique risus nec feugiat. Sed vulputate odio ut enim.', 2, 26);
 INSERT INTO property (address, price, bedrooms, bathrooms, pic_url, sq_footage, description, landlord_id, due_day) 
 VALUES ('300 Springboro Ln, Columbus, OH 43235', 935, 3, 2, 'https://photos.zillowstatic.com/fp/61b78c36f0bc1655179d7eba822337f7-cc_ft_1152.webp', 
-	   300, 'description', 1, 13);
+	   300, 'Auctor eu augue ut lectus arcu. Luctus venenatis lectus magna fringilla urna porttitor. Pretium lectus quam id leo in vitae turpis massa. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Tristique nulla aliquet enim tortor at auctor urna nunc. Morbi blandit cursus risus at ultrices mi. Nisi vitae suscipit tellus mauris a diam maecenas sed. Nisl vel pretium lectus quam id leo in. Ut aliquam purus sit amet luctus venenatis lectus magna. Elementum integer enim neque volutpat ac tincidunt vitae.', 1, 13);
 	   
 INSERT INTO property_users(property_id, renter_id)
 VALUES (1, 11);
