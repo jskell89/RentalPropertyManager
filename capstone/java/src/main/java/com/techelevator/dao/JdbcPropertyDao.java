@@ -26,7 +26,7 @@ public class JdbcPropertyDao implements PropertyDao {
     @Override
     public  List<Property> getAllProperties() {
         List<Property> properties = new ArrayList<>();
-        String sql = "SELECT * FROM property ORDER BY property_id DESC";
+        String sql = "SELECT * FROM property ORDER BY property_id DESC;";
 
         SqlRowSet results = jdbcTemplate.queryForRowSet(sql);
         while (results.next()){
